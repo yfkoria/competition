@@ -4,15 +4,15 @@
 
 ## 下载完整资料
 
-**[下载三轮完整 ZIP（14.5 MB）](https://github.com/yfkoria/competition/raw/refs/heads/main/model_comparison_v3_complete.zip)**
+**[下载三轮完整资料包 TAR.XZ（5.45 MB）](https://github.com/yfkoria/competition/raw/refs/heads/main/model_comparison_v3_complete.tar.xz)**
 
-完整包包含三轮原始答卷与源码、语言风格盲评、固定题包和输入、程序输出、编译与判题日志、异常诊断、分析报告、评分 CSV、冻结规则、哈希与复算脚本。原始 ZIP 未重新打包。
+完整包包含三轮原始答卷与源码、语言风格盲评、固定题包和输入、程序输出、编译与判题日志、异常诊断、分析报告、评分 CSV、冻结规则、哈希与复算脚本。TAR.XZ中的每个文件均已与原始ZIP逐字节核对。原始ZIP另按字节切分保存在 `archive-parts/`，可完整还原；这个转换只用于适配上传通道大小限制。
 
 - [第一轮：能力与语言风格报告](reports/round-1.txt) · [结果 CSV](results/round-1.csv)
 - [第二轮：压力测试与异常分析](reports/round-2.txt) · [结果 CSV](results/round-2.csv)
 - [第三轮：连续优化任务报告](reports/round-3.txt) · [全部 35 配置 CSV](results/round-3.csv)
 - [第三轮完整矩阵图](figures/round-3.svg)
-- [ZIP 的 SHA-256](archive.sha256)
+- [TAR.XZ 的 SHA-256](archive-tar.sha256) · [原始 ZIP 的 SHA-256](archive.sha256)
 
 ## 主要结果
 
@@ -35,7 +35,7 @@
 
 ## 打开交互报告
 
-完整解压ZIP，保持以下三个目录同级：
+完整解压TAR.XZ（或还原后的ZIP），保持以下三个目录同级：
 
 ```text
 model-comparison/
@@ -45,7 +45,7 @@ model-comparison-v3/
 
 用浏览器打开 `model-comparison-v3/delivery/report.html`。点击矩阵格子即可查看原始源码、完整题包与逐输入结果；页面内可跳转前两轮报告。GitHub普通文件页面不会直接运行交互HTML。
 
-报告中的“完整ZIP”链接指向其同目录文件。可直接使用本仓库上方下载链接；若希望该离线链接也可用，把下载的ZIP复制到解压后的 `model-comparison-v3/delivery/`。
+报告中的“完整ZIP”链接指向其同目录原始ZIP。可使用本仓库上方TAR.XZ下载链接获取相同内容；若需要原始ZIP，下载或克隆本仓库后运行 `python restore_zip.py`，脚本会拼接分片并核对SHA-256。把还原的ZIP复制到解压后的 `model-comparison-v3/delivery/`，该离线链接也可用。
 
 ## 核验与复算
 
@@ -55,9 +55,16 @@ ZIP SHA-256：
 75546e9d8e307b64191bd7dad27ccfabf76b082fda7a1c6211620b906c7a88a5
 ```
 
-在仓库下载目录核验：
+核验直接下载的TAR.XZ：
 
 ```bash
+sha256sum -c archive-tar.sha256
+```
+
+还原并核验原始ZIP：
+
+```bash
+python restore_zip.py
 sha256sum -c archive.sha256
 ```
 

@@ -1,0 +1,368 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1480" viewBox="0 0 1100 1480">
+<rect width="1100" height="1480" fill="#f3f6f7"/>
+<style>text{font-family:Arial,sans-serif;fill:#193b45}.title{font-size:27px;font-weight:bold}.head{font-size:21px;font-weight:bold}.body{font-size:17px}.small{font-size:13px}.value{font-size:20px;font-weight:bold}</style>
+<text x="35" y="47" class="title">Hard optimization follow-up: complete configuration matrix</text>
+<text x="35" y="77" class="body">Quality 0–100 · invalid outputs score 0 · eight fixed inputs per program</text>
+<text x="35" y="112" class="head">Packing: occupied cells / rectangle area</text>
+<text x="250" y="146" class="body" text-anchor="middle">low</text>
+<text x="385" y="146" class="body" text-anchor="middle">medium</text>
+<text x="520" y="146" class="body" text-anchor="middle">high</text>
+<text x="655" y="146" class="body" text-anchor="middle">xhigh</text>
+<text x="790" y="146" class="body" text-anchor="middle">max</text>
+<text x="925" y="146" class="body" text-anchor="middle">ultra</text>
+<text x="35" y="190" class="body">6 Astra</text>
+<rect x="185" y="160" width="125" height="49" rx="7" fill="#59aba5"/>
+<text x="247" y="182" class="value" text-anchor="middle">91.96</text>
+<text x="247" y="200" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="160" width="125" height="49" rx="7" fill="#56aaa4"/>
+<text x="382" y="182" class="value" text-anchor="middle">93.57</text>
+<text x="382" y="200" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="160" width="125" height="49" rx="7" fill="#55a9a3"/>
+<text x="517" y="182" class="value" text-anchor="middle">94.31</text>
+<text x="517" y="200" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="160" width="125" height="49" rx="7" fill="#55a9a3"/>
+<text x="652" y="182" class="value" text-anchor="middle">94.31</text>
+<text x="652" y="200" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="160" width="125" height="49" rx="7" fill="#51a8a1"/>
+<text x="787" y="182" class="value" text-anchor="middle">96.81</text>
+<text x="787" y="200" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="160" width="125" height="49" rx="7" fill="#53a8a2"/>
+<text x="922" y="182" class="value" text-anchor="middle">95.74</text>
+<text x="922" y="200" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="245" class="body">6.1 Sol</text>
+<rect x="185" y="215" width="125" height="49" rx="7" fill="#58aba4"/>
+<text x="247" y="237" class="value" text-anchor="middle">92.81</text>
+<text x="247" y="255" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="215" width="125" height="49" rx="7" fill="#55a9a3"/>
+<text x="382" y="237" class="value" text-anchor="middle">94.63</text>
+<text x="382" y="255" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="215" width="125" height="49" rx="7" fill="#55a9a3"/>
+<text x="517" y="237" class="value" text-anchor="middle">94.59</text>
+<text x="517" y="255" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="215" width="125" height="49" rx="7" fill="#53a8a2"/>
+<text x="652" y="237" class="value" text-anchor="middle">95.62</text>
+<text x="652" y="255" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="215" width="125" height="49" rx="7" fill="#52a8a1"/>
+<text x="787" y="237" class="value" text-anchor="middle">96.05</text>
+<text x="787" y="255" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="215" width="125" height="49" rx="7" fill="#54a9a2"/>
+<text x="922" y="237" class="value" text-anchor="middle">95.29</text>
+<text x="922" y="255" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="300" class="body">6 Sol</text>
+<rect x="185" y="270" width="125" height="49" rx="7" fill="#72b7b2"/>
+<text x="247" y="292" class="value" text-anchor="middle">76.87</text>
+<text x="247" y="310" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="270" width="125" height="49" rx="7" fill="#65b1ab"/>
+<text x="382" y="292" class="value" text-anchor="middle">84.90</text>
+<text x="382" y="310" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="270" width="125" height="49" rx="7" fill="#62b0aa"/>
+<text x="517" y="292" class="value" text-anchor="middle">86.45</text>
+<text x="517" y="310" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="270" width="125" height="49" rx="7" fill="#59aba5"/>
+<text x="652" y="292" class="value" text-anchor="middle">91.87</text>
+<text x="652" y="310" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="270" width="125" height="49" rx="7" fill="#62b0aa"/>
+<text x="787" y="292" class="value" text-anchor="middle">86.46</text>
+<text x="787" y="310" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="270" width="125" height="49" rx="7" fill="#5dada7"/>
+<text x="922" y="292" class="value" text-anchor="middle">89.70</text>
+<text x="922" y="310" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="355" class="body">6.1 Terra</text>
+<rect x="185" y="325" width="125" height="49" rx="7" fill="#67b2ac"/>
+<text x="247" y="347" class="value" text-anchor="middle">83.40</text>
+<text x="247" y="365" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="325" width="125" height="49" rx="7" fill="#72b8b3"/>
+<text x="382" y="347" class="value" text-anchor="middle">76.43</text>
+<text x="382" y="365" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="325" width="125" height="49" rx="7" fill="#67b2ac"/>
+<text x="517" y="347" class="value" text-anchor="middle">83.59</text>
+<text x="517" y="365" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="325" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="652" y="347" class="value" text-anchor="middle">87.00</text>
+<text x="652" y="365" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="325" width="125" height="49" rx="7" fill="#55a9a3"/>
+<text x="787" y="347" class="value" text-anchor="middle">94.75</text>
+<text x="787" y="365" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="325" width="125" height="49" rx="7" fill="#5faea8"/>
+<text x="922" y="347" class="value" text-anchor="middle">88.06</text>
+<text x="922" y="365" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="410" class="body">6 Luna</text>
+<rect x="185" y="380" width="125" height="49" rx="7" fill="#eff4f5"/>
+<text x="247" y="402" class="value" text-anchor="middle">0.00</text>
+<text x="247" y="420" class="small" text-anchor="middle">0/8 valid</text>
+<rect x="320" y="380" width="125" height="49" rx="7" fill="#eff4f5"/>
+<text x="382" y="402" class="value" text-anchor="middle">0.00</text>
+<text x="382" y="420" class="small" text-anchor="middle">0/8 valid</text>
+<rect x="455" y="380" width="125" height="49" rx="7" fill="#eff4f5"/>
+<text x="517" y="402" class="value" text-anchor="middle">0.00</text>
+<text x="517" y="420" class="small" text-anchor="middle">0/8 valid</text>
+<rect x="590" y="380" width="125" height="49" rx="7" fill="#eff4f5"/>
+<text x="652" y="402" class="value" text-anchor="middle">0.00</text>
+<text x="652" y="420" class="small" text-anchor="middle">0/8 valid</text>
+<rect x="725" y="380" width="125" height="49" rx="7" fill="#6bb4af"/>
+<text x="787" y="402" class="value" text-anchor="middle">80.74</text>
+<text x="787" y="420" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="380" width="125" height="49" rx="7" fill="#eff4f5"/>
+<text x="922" y="411" class="small" text-anchor="middle">unsupported</text>
+<text x="35" y="465" class="body">5.6 Sol*</text>
+<rect x="185" y="435" width="125" height="49" rx="7" fill="#69b3ae"/>
+<text x="247" y="457" class="value" text-anchor="middle">82.01</text>
+<text x="247" y="475" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="435" width="125" height="49" rx="7" fill="#69b3ae"/>
+<text x="382" y="457" class="value" text-anchor="middle">82.14</text>
+<text x="382" y="475" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="435" width="125" height="49" rx="7" fill="#68b2ad"/>
+<text x="517" y="457" class="value" text-anchor="middle">83.07</text>
+<text x="517" y="475" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="435" width="125" height="49" rx="7" fill="#5baca6"/>
+<text x="652" y="457" class="value" text-anchor="middle">90.82</text>
+<text x="652" y="475" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="435" width="125" height="49" rx="7" fill="#5dada7"/>
+<text x="787" y="457" class="value" text-anchor="middle">89.40</text>
+<text x="787" y="475" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="435" width="125" height="49" rx="7" fill="#59aba5"/>
+<text x="922" y="457" class="value" text-anchor="middle">92.23</text>
+<text x="922" y="475" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="540" class="head">Job shop: workload lower bound / makespan</text>
+<text x="250" y="574" class="body" text-anchor="middle">low</text>
+<text x="385" y="574" class="body" text-anchor="middle">medium</text>
+<text x="520" y="574" class="body" text-anchor="middle">high</text>
+<text x="655" y="574" class="body" text-anchor="middle">xhigh</text>
+<text x="790" y="574" class="body" text-anchor="middle">max</text>
+<text x="925" y="574" class="body" text-anchor="middle">ultra</text>
+<text x="35" y="618" class="body">6 Astra</text>
+<rect x="185" y="588" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="247" y="610" class="value" text-anchor="middle">87.91</text>
+<text x="247" y="628" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="588" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="382" y="610" class="value" text-anchor="middle">87.36</text>
+<text x="382" y="628" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="588" width="125" height="49" rx="7" fill="#60afa8"/>
+<text x="517" y="610" class="value" text-anchor="middle">87.94</text>
+<text x="517" y="628" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="588" width="125" height="49" rx="7" fill="#5eada7"/>
+<text x="652" y="610" class="value" text-anchor="middle">89.26</text>
+<text x="652" y="628" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="588" width="125" height="49" rx="7" fill="#5dada7"/>
+<text x="787" y="610" class="value" text-anchor="middle">89.68</text>
+<text x="787" y="628" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="588" width="125" height="49" rx="7" fill="#5dada7"/>
+<text x="922" y="610" class="value" text-anchor="middle">89.51</text>
+<text x="922" y="628" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="673" class="body">6.1 Sol</text>
+<rect x="185" y="643" width="125" height="49" rx="7" fill="#60aea8"/>
+<text x="247" y="665" class="value" text-anchor="middle">88.00</text>
+<text x="247" y="683" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="643" width="125" height="49" rx="7" fill="#5eaea7"/>
+<text x="382" y="665" class="value" text-anchor="middle">89.13</text>
+<text x="382" y="683" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="643" width="125" height="49" rx="7" fill="#5eaea7"/>
+<text x="517" y="665" class="value" text-anchor="middle">89.22</text>
+<text x="517" y="683" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="643" width="125" height="49" rx="7" fill="#5faea8"/>
+<text x="652" y="665" class="value" text-anchor="middle">88.17</text>
+<text x="652" y="683" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="643" width="125" height="49" rx="7" fill="#5dada7"/>
+<text x="787" y="665" class="value" text-anchor="middle">89.69</text>
+<text x="787" y="683" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="643" width="125" height="49" rx="7" fill="#5eaea8"/>
+<text x="922" y="665" class="value" text-anchor="middle">88.68</text>
+<text x="922" y="683" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="728" class="body">6 Sol</text>
+<rect x="185" y="698" width="125" height="49" rx="7" fill="#5faea8"/>
+<text x="247" y="720" class="value" text-anchor="middle">88.51</text>
+<text x="247" y="738" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="698" width="125" height="49" rx="7" fill="#5faea8"/>
+<text x="382" y="720" class="value" text-anchor="middle">88.22</text>
+<text x="382" y="738" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="698" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="517" y="720" class="value" text-anchor="middle">87.89</text>
+<text x="517" y="738" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="698" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="652" y="720" class="value" text-anchor="middle">87.87</text>
+<text x="652" y="738" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="698" width="125" height="49" rx="7" fill="#5eaea8"/>
+<text x="787" y="720" class="value" text-anchor="middle">88.82</text>
+<text x="787" y="738" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="698" width="125" height="49" rx="7" fill="#5eaea8"/>
+<text x="922" y="720" class="value" text-anchor="middle">88.74</text>
+<text x="922" y="738" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="783" class="body">6.1 Terra</text>
+<rect x="185" y="753" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="247" y="775" class="value" text-anchor="middle">87.59</text>
+<text x="247" y="793" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="753" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="382" y="775" class="value" text-anchor="middle">87.61</text>
+<text x="382" y="793" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="753" width="125" height="49" rx="7" fill="#5faea8"/>
+<text x="517" y="775" class="value" text-anchor="middle">88.47</text>
+<text x="517" y="793" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="753" width="125" height="49" rx="7" fill="#5eaea8"/>
+<text x="652" y="775" class="value" text-anchor="middle">88.75</text>
+<text x="652" y="793" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="753" width="125" height="49" rx="7" fill="#5eaea7"/>
+<text x="787" y="775" class="value" text-anchor="middle">89.23</text>
+<text x="787" y="793" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="753" width="125" height="49" rx="7" fill="#eff4f5"/>
+<text x="922" y="775" class="value" text-anchor="middle">0.00</text>
+<text x="922" y="793" class="small" text-anchor="middle">0/8 valid</text>
+<text x="35" y="838" class="body">6 Luna</text>
+<rect x="185" y="808" width="125" height="49" rx="7" fill="#60aea8"/>
+<text x="247" y="830" class="value" text-anchor="middle">87.98</text>
+<text x="247" y="848" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="808" width="125" height="49" rx="7" fill="#74b8b3"/>
+<text x="382" y="830" class="value" text-anchor="middle">75.68</text>
+<text x="382" y="848" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="808" width="125" height="49" rx="7" fill="#6db5af"/>
+<text x="517" y="830" class="value" text-anchor="middle">79.95</text>
+<text x="517" y="848" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="808" width="125" height="49" rx="7" fill="#5faea8"/>
+<text x="652" y="830" class="value" text-anchor="middle">88.41</text>
+<text x="652" y="848" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="808" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="787" y="830" class="value" text-anchor="middle">87.50</text>
+<text x="787" y="848" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="808" width="125" height="49" rx="7" fill="#eff4f5"/>
+<text x="922" y="839" class="small" text-anchor="middle">unsupported</text>
+<text x="35" y="893" class="body">5.6 Sol*</text>
+<rect x="185" y="863" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="247" y="885" class="value" text-anchor="middle">87.92</text>
+<text x="247" y="903" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="863" width="125" height="49" rx="7" fill="#5faea8"/>
+<text x="382" y="885" class="value" text-anchor="middle">88.10</text>
+<text x="382" y="903" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="863" width="125" height="49" rx="7" fill="#5faea8"/>
+<text x="517" y="885" class="value" text-anchor="middle">88.18</text>
+<text x="517" y="903" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="863" width="125" height="49" rx="7" fill="#5dada7"/>
+<text x="652" y="885" class="value" text-anchor="middle">89.33</text>
+<text x="652" y="903" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="863" width="125" height="49" rx="7" fill="#5eaea8"/>
+<text x="787" y="885" class="value" text-anchor="middle">88.90</text>
+<text x="787" y="903" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="863" width="125" height="49" rx="7" fill="#5eaea8"/>
+<text x="922" y="885" class="value" text-anchor="middle">88.72</text>
+<text x="922" y="903" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="968" class="head">Max-Cut: cut edges / all edges</text>
+<text x="250" y="1002" class="body" text-anchor="middle">low</text>
+<text x="385" y="1002" class="body" text-anchor="middle">medium</text>
+<text x="520" y="1002" class="body" text-anchor="middle">high</text>
+<text x="655" y="1002" class="body" text-anchor="middle">xhigh</text>
+<text x="790" y="1002" class="body" text-anchor="middle">max</text>
+<text x="925" y="1002" class="body" text-anchor="middle">ultra</text>
+<text x="35" y="1046" class="body">6 Astra</text>
+<rect x="185" y="1016" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="247" y="1038" class="value" text-anchor="middle">87.55</text>
+<text x="247" y="1056" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="1016" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="382" y="1038" class="value" text-anchor="middle">87.54</text>
+<text x="382" y="1056" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="1016" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="517" y="1038" class="value" text-anchor="middle">87.56</text>
+<text x="517" y="1056" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="1016" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="652" y="1038" class="value" text-anchor="middle">87.58</text>
+<text x="652" y="1056" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="1016" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="787" y="1038" class="value" text-anchor="middle">87.57</text>
+<text x="787" y="1056" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="1016" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="922" y="1038" class="value" text-anchor="middle">87.58</text>
+<text x="922" y="1056" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="1101" class="body">6.1 Sol</text>
+<rect x="185" y="1071" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="247" y="1093" class="value" text-anchor="middle">87.55</text>
+<text x="247" y="1111" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="1071" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="382" y="1093" class="value" text-anchor="middle">87.56</text>
+<text x="382" y="1111" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="1071" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="517" y="1093" class="value" text-anchor="middle">87.58</text>
+<text x="517" y="1111" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="1071" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="652" y="1093" class="value" text-anchor="middle">87.58</text>
+<text x="652" y="1111" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="1071" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="787" y="1093" class="value" text-anchor="middle">87.57</text>
+<text x="787" y="1111" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="1071" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="922" y="1093" class="value" text-anchor="middle">87.54</text>
+<text x="922" y="1111" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="1156" class="body">6 Sol</text>
+<rect x="185" y="1126" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="247" y="1148" class="value" text-anchor="middle">87.17</text>
+<text x="247" y="1166" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="1126" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="382" y="1148" class="value" text-anchor="middle">87.18</text>
+<text x="382" y="1166" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="1126" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="517" y="1148" class="value" text-anchor="middle">87.32</text>
+<text x="517" y="1166" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="1126" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="652" y="1148" class="value" text-anchor="middle">87.07</text>
+<text x="652" y="1166" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="1126" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="787" y="1148" class="value" text-anchor="middle">87.41</text>
+<text x="787" y="1166" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="1126" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="922" y="1148" class="value" text-anchor="middle">87.30</text>
+<text x="922" y="1166" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="1211" class="body">6.1 Terra</text>
+<rect x="185" y="1181" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="247" y="1203" class="value" text-anchor="middle">87.14</text>
+<text x="247" y="1221" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="1181" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="382" y="1203" class="value" text-anchor="middle">87.25</text>
+<text x="382" y="1221" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="1181" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="517" y="1203" class="value" text-anchor="middle">87.45</text>
+<text x="517" y="1221" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="1181" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="652" y="1203" class="value" text-anchor="middle">87.46</text>
+<text x="652" y="1221" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="1181" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="787" y="1203" class="value" text-anchor="middle">87.55</text>
+<text x="787" y="1221" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="1181" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="922" y="1203" class="value" text-anchor="middle">87.07</text>
+<text x="922" y="1221" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="1266" class="body">6 Luna</text>
+<rect x="185" y="1236" width="125" height="49" rx="7" fill="#66b1ac"/>
+<text x="247" y="1258" class="value" text-anchor="middle">84.33</text>
+<text x="247" y="1276" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="1236" width="125" height="49" rx="7" fill="#eff4f5"/>
+<text x="382" y="1258" class="value" text-anchor="middle">0.00</text>
+<text x="382" y="1276" class="small" text-anchor="middle">0/8 valid</text>
+<rect x="455" y="1236" width="125" height="49" rx="7" fill="#ecf3f3"/>
+<text x="517" y="1258" class="value" text-anchor="middle">1.87</text>
+<text x="517" y="1276" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="1236" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="652" y="1258" class="value" text-anchor="middle">87.51</text>
+<text x="652" y="1276" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="1236" width="125" height="49" rx="7" fill="#63b0aa"/>
+<text x="787" y="1258" class="value" text-anchor="middle">85.79</text>
+<text x="787" y="1276" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="1236" width="125" height="49" rx="7" fill="#eff4f5"/>
+<text x="922" y="1267" class="small" text-anchor="middle">unsupported</text>
+<text x="35" y="1321" class="body">5.6 Sol*</text>
+<rect x="185" y="1291" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="247" y="1313" class="value" text-anchor="middle">87.08</text>
+<text x="247" y="1331" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="320" y="1291" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="382" y="1313" class="value" text-anchor="middle">86.84</text>
+<text x="382" y="1331" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="455" y="1291" width="125" height="49" rx="7" fill="#63b0aa"/>
+<text x="517" y="1313" class="value" text-anchor="middle">86.11</text>
+<text x="517" y="1331" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="590" y="1291" width="125" height="49" rx="7" fill="#61afa9"/>
+<text x="652" y="1313" class="value" text-anchor="middle">87.30</text>
+<text x="652" y="1331" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="725" y="1291" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="787" y="1313" class="value" text-anchor="middle">87.43</text>
+<text x="787" y="1331" class="small" text-anchor="middle">8/8 valid</text>
+<rect x="860" y="1291" width="125" height="49" rx="7" fill="#60afa9"/>
+<text x="922" y="1313" class="value" text-anchor="middle">87.56</text>
+<text x="922" y="1331" class="small" text-anchor="middle">8/8 valid</text>
+<text x="35" y="1418" class="small">* Accepted request identifier; underlying backend unverified. Three distinct generated programs per configuration.</text>
+<text x="35" y="1443" class="small">Bounds need not be attainable optima. These are task-specific objective ratios, not IQ or official leaderboard scores.</text>
+</svg>
